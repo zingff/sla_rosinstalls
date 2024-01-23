@@ -1,0 +1,52 @@
+- git:
+    local-name: anygrasp_sdk
+    uri: git@github.com:zingff/anygrasp_sdk.git
+- git:
+    local-name: apriltag
+    uri: git@github.com:zingff/apriltag.git
+- git:
+    local-name: apriltag_ros
+    uri: git@github.com:zingff/apriltag_ros.git
+- git:
+    local-name: door_open_task
+    uri: git@github.com:zingff/door_open_task.git
+- git:
+    local-name: admittance_controller
+    uri: git@github.com:zingff/admittance_controller.git
+- git:
+    local-name: face_detection
+    uri: git@github.com:zingff/face_detection.git
+- git:
+    local-name: feeding_task
+    uri: git@github.com:zingff/feeding_task.git
+- git:
+    local-name: geometry2
+    uri: git@github.com:zingff/geometry2.git
+- git:
+    local-name: Grounded-Segment-Anything
+    uri: git@github.com:zingff/Grounded-Segment-Anything.git
+- git:
+    local-name: kortex_motion_planning
+    uri: git@github.com:zingff/kortex_motion_planning.git
+- git:
+    local-name: object_grasping
+    uri: git@github.com:zingff/object_grasping.git
+- git:
+    local-name: pinocchio
+    uri: git@github.com:zingff/pinocchio.git
+- git:
+    local-name: pr_assets
+    uri: git@github.com:zingff/pr_assets.git
+- git:
+    local-name: ros_kortex
+    uri: git@github.com:zingff/ros_kortex.git
+- git:
+    local-name: ros_kortex_vision
+    uri: git@github.com:zingff/ros_kortex_vision.git
+- git:
+    local-name: tesseract
+    uri: git@github.com:zingff/tesseract.git
+- git:
+    local-name: tree_of_thought
+    uri: git@github.com:zingff/tree_of_thought.git
+
